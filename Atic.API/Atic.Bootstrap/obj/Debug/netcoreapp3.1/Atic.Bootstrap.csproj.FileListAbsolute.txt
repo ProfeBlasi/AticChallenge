@@ -1,0 +1,10 @@
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\bin\Debug\netcoreapp3.1\Atic.Bootstrap.deps.json
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\bin\Debug\netcoreapp3.1\Atic.Bootstrap.dll
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\bin\Debug\netcoreapp3.1\Atic.Bootstrap.pdb
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\obj\Debug\netcoreapp3.1\Atic.Bootstrap.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\obj\Debug\netcoreapp3.1\Atic.Bootstrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\obj\Debug\netcoreapp3.1\Atic.Bootstrap.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\obj\Debug\netcoreapp3.1\Atic.Bootstrap.AssemblyInfo.cs
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\obj\Debug\netcoreapp3.1\Atic.Bootstrap.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\obj\Debug\netcoreapp3.1\Atic.Bootstrap.dll
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\obj\Debug\netcoreapp3.1\Atic.Bootstrap.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Persistance\bin\Debug\netcoreapp3.1\Atic.Persistance.deps.json
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Persistance\bin\Debug\netcoreapp3.1\Atic.Persistance.dll
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Persistance\bin\Debug\netcoreapp3.1\Atic.Persistance.pdb
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Persistance\obj\Debug\netcoreapp3.1\Atic.Persistance.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Persistance\obj\Debug\netcoreapp3.1\Atic.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Persistance\obj\Debug\netcoreapp3.1\Atic.Persistance.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Persistance\obj\Debug\netcoreapp3.1\Atic.Persistance.AssemblyInfo.cs
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Persistance\obj\Debug\netcoreapp3.1\Atic.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Persistance\obj\Debug\netcoreapp3.1\Atic.Persistance.dll
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Persistance\obj\Debug\netcoreapp3.1\Atic.Persistance.pdb
