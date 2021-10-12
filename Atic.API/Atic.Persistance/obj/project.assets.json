@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Atic.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Atic.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Atic.Application.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Atic.Application/1.0.0": {
+      "type": "project",
+      "path": "../Atic.Application/Atic.Application.csproj",
+      "msbuildProject": "../Atic.Application/Atic.Application.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Atic.Application >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Ezequiel\\.nuget\\packages\\": {},
@@ -41,7 +60,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Ezequiel\\Desktop\\ATIC\\Atic.API\\Atic.Application\\Atic.Application.csproj": {
+              "projectPath": "C:\\Users\\Ezequiel\\Desktop\\ATIC\\Atic.API\\Atic.Application\\Atic.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
