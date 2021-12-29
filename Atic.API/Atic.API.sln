@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atic.API", "Atic.API\Atic.API.csproj", "{DD06173E-FC54-45F5-8D79-11B011B901DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atic.Application", "Atic.Application\Atic.Application.csproj", "{AD5FB471-0D83-4AB4-AE85-DA1208CB5F8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atic.Application", "Atic.Application\Atic.Application.csproj", "{AD5FB471-0D83-4AB4-AE85-DA1208CB5F8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atic.Bootstrap", "Atic.Bootstrap\Atic.Bootstrap.csproj", "{3C3BBB0E-9E7C-4701-86F0-9680D64E8D99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atic.Bootstrap", "Atic.Bootstrap\Atic.Bootstrap.csproj", "{3C3BBB0E-9E7C-4701-86F0-9680D64E8D99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atic.Domain", "Atic.Domain\Atic.Domain.csproj", "{54BB3990-9FF5-4EA5-9F41-89847C2FE586}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atic.Domain", "Atic.Domain\Atic.Domain.csproj", "{54BB3990-9FF5-4EA5-9F41-89847C2FE586}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atic.Persistance", "Atic.Persistance\Atic.Persistance.csproj", "{E76F39E9-1479-4694-AECF-C44D7F19B18D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atic.Persistance", "Atic.Persistance\Atic.Persistance.csproj", "{E76F39E9-1479-4694-AECF-C44D7F19B18D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atic.Tests", "Atic.Tests\Atic.Tests.csproj", "{A98B1996-C237-49D9-A14B-C64157D86175}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atic.Tests", "Atic.Tests\Atic.Tests.csproj", "{A98B1996-C237-49D9-A14B-C64157D86175}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atic.API", "Atic.API\Atic.API.csproj", "{5C788838-F8BE-462E-9EE7-7D4CAA1B0EB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +21,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DD06173E-FC54-45F5-8D79-11B011B901DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DD06173E-FC54-45F5-8D79-11B011B901DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DD06173E-FC54-45F5-8D79-11B011B901DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DD06173E-FC54-45F5-8D79-11B011B901DE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AD5FB471-0D83-4AB4-AE85-DA1208CB5F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AD5FB471-0D83-4AB4-AE85-DA1208CB5F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD5FB471-0D83-4AB4-AE85-DA1208CB5F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,6 +41,10 @@ Global
 		{A98B1996-C237-49D9-A14B-C64157D86175}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A98B1996-C237-49D9-A14B-C64157D86175}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A98B1996-C237-49D9-A14B-C64157D86175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C788838-F8BE-462E-9EE7-7D4CAA1B0EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C788838-F8BE-462E-9EE7-7D4CAA1B0EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C788838-F8BE-462E-9EE7-7D4CAA1B0EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C788838-F8BE-462E-9EE7-7D4CAA1B0EB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
