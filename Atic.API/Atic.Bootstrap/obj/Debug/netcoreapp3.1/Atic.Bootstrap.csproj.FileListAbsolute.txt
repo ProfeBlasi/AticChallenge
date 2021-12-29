@@ -12,3 +12,6 @@ C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\bin\Debug\netcoreapp3.1\A
 C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\bin\Debug\netcoreapp3.1\Atic.Persistance.dll
 C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\bin\Debug\netcoreapp3.1\Atic.Application.pdb
 C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\bin\Debug\netcoreapp3.1\Atic.Persistance.pdb
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\obj\Debug\netcoreapp3.1\Atic.Bootstrap.csproj.CopyComplete
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\bin\Debug\netcoreapp3.1\Atic.Domain.dll
+C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Bootstrap\bin\Debug\netcoreapp3.1\Atic.Domain.pdb
