@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gnSEKhwfX/VpDT9tflu+MZPOLU98tHmvXCBnm3J6F1nX51bwebgzoK2BkjPLH3yDyUeAdqtyEoloFaROb3mPcA==",
+  "dgSpecHash": "HleSKRAQveT2PFXBtQQZllwJKHgvp/svbYeY6/hxT3LvBadGwwlDp8N3JVKdw5DSZIF9yWNsi7y7dODFOuuWew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ezequiel\\Desktop\\ATIC\\Atic.API\\Atic.Persistance\\Atic.Persistance.csproj",
+  "projectFilePath": "C:\\Users\\Ezequiel\\Desktop\\ATIC Evaluacion de candidatos\\AticChallenge\\Atic.API\\Atic.Persistance\\Atic.Persistance.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ezequiel\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\Ezequiel\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\Ezequiel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ezequiel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Ezequiel\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

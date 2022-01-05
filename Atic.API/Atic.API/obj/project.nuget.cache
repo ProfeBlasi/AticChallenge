@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "gNjmFXWJcVDbk8CYNYDtl69Cim8CMmOxVT8N+h86ru9WFDePt075wdshR9GkppXuXXXv8Uu44uw4kWSzqNcMYg==",
+  "dgSpecHash": "GIv8mM9PL9bXJZyQzHBqQvna3C63dD4un5TT+52Bxbxjjn6DBaCq2PCb8rc9CiQOthUJnIE8HNdaVGYW6e4uDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ezequiel\\Desktop\\ATIC\\Atic.API\\Atic.API\\Atic.API.csproj",
+  "projectFilePath": "C:\\Users\\Ezequiel\\Desktop\\ATIC Evaluacion de candidatos\\AticChallenge\\Atic.API\\Atic.API\\Atic.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ezequiel\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\Ezequiel\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.3.0\\fluentvalidation.aspnetcore.9.3.0.nupkg.sha512",
+    "C:\\Users\\Ezequiel\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.3.0\\fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512",
+    "C:\\Users\\Ezequiel\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\Ezequiel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Ezequiel\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Ezequiel\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Ezequiel\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\Ezequiel\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512",

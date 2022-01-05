@@ -2311,7 +2311,6 @@
       },
       "Atic.Persistance/1.0.0": {
         "dependencies": {
-          "Atic.Application": "1.0.0",
           "Atic.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.6"
         },

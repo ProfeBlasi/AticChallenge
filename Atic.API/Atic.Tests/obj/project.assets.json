@@ -4594,11 +4594,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ezequiel\\Desktop\\ATIC\\Atic.API\\Atic.Tests\\Atic.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Ezequiel\\Desktop\\ATIC Evaluacion de candidatos\\AticChallenge\\Atic.API\\Atic.Tests\\Atic.Tests.csproj",
       "projectName": "Atic.Tests",
-      "projectPath": "C:\\Users\\Ezequiel\\Desktop\\ATIC\\Atic.API\\Atic.Tests\\Atic.Tests.csproj",
+      "projectPath": "C:\\Users\\Ezequiel\\Desktop\\ATIC Evaluacion de candidatos\\AticChallenge\\Atic.API\\Atic.Tests\\Atic.Tests.csproj",
       "packagesPath": "C:\\Users\\Ezequiel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ezequiel\\Desktop\\ATIC\\Atic.API\\Atic.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Ezequiel\\Desktop\\ATIC Evaluacion de candidatos\\AticChallenge\\Atic.API\\Atic.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

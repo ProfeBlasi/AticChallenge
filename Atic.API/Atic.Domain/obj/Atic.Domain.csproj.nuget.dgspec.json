@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ezequiel\\Desktop\\ATIC\\Atic.API\\Atic.Domain\\Atic.Domain.csproj": {}
+    "C:\\Users\\Ezequiel\\Desktop\\ATIC Evaluacion de candidatos\\AticChallenge\\Atic.API\\Atic.Domain\\Atic.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ezequiel\\Desktop\\ATIC\\Atic.API\\Atic.Domain\\Atic.Domain.csproj": {
+    "C:\\Users\\Ezequiel\\Desktop\\ATIC Evaluacion de candidatos\\AticChallenge\\Atic.API\\Atic.Domain\\Atic.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ezequiel\\Desktop\\ATIC\\Atic.API\\Atic.Domain\\Atic.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Ezequiel\\Desktop\\ATIC Evaluacion de candidatos\\AticChallenge\\Atic.API\\Atic.Domain\\Atic.Domain.csproj",
         "projectName": "Atic.Domain",
-        "projectPath": "C:\\Users\\Ezequiel\\Desktop\\ATIC\\Atic.API\\Atic.Domain\\Atic.Domain.csproj",
+        "projectPath": "C:\\Users\\Ezequiel\\Desktop\\ATIC Evaluacion de candidatos\\AticChallenge\\Atic.API\\Atic.Domain\\Atic.Domain.csproj",
         "packagesPath": "C:\\Users\\Ezequiel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ezequiel\\Desktop\\ATIC\\Atic.API\\Atic.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Ezequiel\\Desktop\\ATIC Evaluacion de candidatos\\AticChallenge\\Atic.API\\Atic.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -43,6 +43,16 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

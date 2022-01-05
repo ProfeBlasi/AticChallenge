@@ -1,6 +1,6 @@
 using Atic.Bootstrap;
 using Atic.Bootstrap.Providers;
-using Atic.Persistance.Entities;
+using Atic.Persistance.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -22,7 +22,7 @@ namespace Atic.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<AticPruebaCandidatosContext>(options =>
+            services.AddDbContext<AticPruebaDeCandidatosContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
             services.AddControllers();
             services.ConfigureServices(Configuration);

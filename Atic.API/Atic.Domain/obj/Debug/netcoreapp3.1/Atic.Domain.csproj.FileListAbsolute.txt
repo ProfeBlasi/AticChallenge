@@ -8,3 +8,13 @@ C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Domain\obj\Debug\netcoreapp3.1\Atic
 C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Domain\obj\Debug\netcoreapp3.1\Atic.Domain.dll
 C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Domain\obj\Debug\netcoreapp3.1\Atic.Domain.pdb
 C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Domain\obj\Debug\netcoreapp3.1\Atic.Domain.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Domain\bin\Debug\netcoreapp3.1\Atic.Domain.deps.json
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Domain\bin\Debug\netcoreapp3.1\Atic.Domain.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Domain\bin\Debug\netcoreapp3.1\Atic.Domain.pdb
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Domain\obj\Debug\netcoreapp3.1\Atic.Domain.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Domain\obj\Debug\netcoreapp3.1\Atic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Domain\obj\Debug\netcoreapp3.1\Atic.Domain.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Domain\obj\Debug\netcoreapp3.1\Atic.Domain.AssemblyInfo.cs
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Domain\obj\Debug\netcoreapp3.1\Atic.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Domain\obj\Debug\netcoreapp3.1\Atic.Domain.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Domain\obj\Debug\netcoreapp3.1\Atic.Domain.pdb

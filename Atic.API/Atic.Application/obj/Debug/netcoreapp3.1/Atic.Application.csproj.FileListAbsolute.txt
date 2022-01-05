@@ -8,3 +8,16 @@ C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Application\obj\Debug\netcoreapp3.1
 C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Application\obj\Debug\netcoreapp3.1\Atic.Application.dll
 C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Application\obj\Debug\netcoreapp3.1\Atic.Application.pdb
 C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Application\obj\Debug\netcoreapp3.1\Atic.Application.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Application\bin\Debug\netcoreapp3.1\Atic.Application.deps.json
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Application\bin\Debug\netcoreapp3.1\Atic.Application.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Application\bin\Debug\netcoreapp3.1\Atic.Application.pdb
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Application\obj\Debug\netcoreapp3.1\Atic.Application.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Application\obj\Debug\netcoreapp3.1\Atic.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Application\obj\Debug\netcoreapp3.1\Atic.Application.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Application\obj\Debug\netcoreapp3.1\Atic.Application.AssemblyInfo.cs
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Application\obj\Debug\netcoreapp3.1\Atic.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Application\obj\Debug\netcoreapp3.1\Atic.Application.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Application\obj\Debug\netcoreapp3.1\Atic.Application.pdb
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Application\bin\Debug\netcoreapp3.1\Atic.Application.runtimeconfig.json
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Application\bin\Debug\netcoreapp3.1\Atic.Application.runtimeconfig.dev.json
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Application\obj\Debug\netcoreapp3.1\Atic.Application.genruntimeconfig.cache

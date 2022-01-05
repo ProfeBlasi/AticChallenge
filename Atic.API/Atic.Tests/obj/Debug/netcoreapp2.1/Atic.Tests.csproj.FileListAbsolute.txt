@@ -16,3 +16,21 @@ C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Tests\obj\Debug\netcoreapp2.1\Atic.
 C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Tests\obj\Debug\netcoreapp2.1\Atic.Tests.dll
 C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Tests\obj\Debug\netcoreapp2.1\Atic.Tests.pdb
 C:\Users\Ezequiel\Desktop\ATIC\Atic.API\Atic.Tests\obj\Debug\netcoreapp2.1\Atic.Tests.genruntimeconfig.cache
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\bin\Debug\netcoreapp2.1\Atic.Tests.deps.json
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\bin\Debug\netcoreapp2.1\Atic.Tests.runtimeconfig.json
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\bin\Debug\netcoreapp2.1\Atic.Tests.runtimeconfig.dev.json
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\bin\Debug\netcoreapp2.1\Atic.Tests.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\bin\Debug\netcoreapp2.1\Atic.Tests.pdb
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\obj\Debug\netcoreapp2.1\Atic.Tests.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\obj\Debug\netcoreapp2.1\Atic.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\obj\Debug\netcoreapp2.1\Atic.Tests.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\obj\Debug\netcoreapp2.1\Atic.Tests.AssemblyInfo.cs
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\obj\Debug\netcoreapp2.1\Atic.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\obj\Debug\netcoreapp2.1\Atic.Tests.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\obj\Debug\netcoreapp2.1\Atic.Tests.pdb
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Tests\obj\Debug\netcoreapp2.1\Atic.Tests.genruntimeconfig.cache

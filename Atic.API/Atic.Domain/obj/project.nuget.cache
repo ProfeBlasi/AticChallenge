@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "u7WpEjoK9qXDeLUT+dACk4RUbOsu1Rct/DnTHX+93vnPotcC5vMxWB7+8UzPFdPLMIqjpbMCaeAYGO44/SJ+nA==",
+  "dgSpecHash": "Nk4B8m0p/Ova1gqkblmy6tzNNf5oFRtjFo2RORO3LV8qxtdgh1E6eOIPyuBtWFgJsBTWi5eU/ocKIJfVwMm0QQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ezequiel\\Desktop\\ATIC\\Atic.API\\Atic.Domain\\Atic.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ezequiel\\Desktop\\ATIC Evaluacion de candidatos\\AticChallenge\\Atic.API\\Atic.Domain\\Atic.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ezequiel\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\Ezequiel\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
