@@ -1,3 +1,4 @@
+using Atic.API.Presenters;
 using Atic.Bootstrap;
 using Atic.Bootstrap.Providers;
 using Atic.Persistance.Context;
@@ -22,10 +23,9 @@ namespace Atic.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<AticPruebaDeCandidatosContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
             services.AddControllers();
             services.ConfigureServices(Configuration);
+            services.AddSingleton<IApiRestPresenter, ApiRestPresenter>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -40,6 +40,8 @@ namespace Atic.API
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseCors("AnyAllow");
 
             app.UseAuthorization();
 

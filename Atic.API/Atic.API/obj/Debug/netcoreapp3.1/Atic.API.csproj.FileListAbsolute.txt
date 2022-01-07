@@ -295,7 +295,14 @@ C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\A
 C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.API\obj\Debug\netcoreapp3.1\staticwebassets\Atic.API.StaticWebAssets.xml
 C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Atic.API.styles.css
 C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.API\obj\Debug\netcoreapp3.1\Atic.API.RazorTargetAssemblyInfo.cache
-C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.API\obj\Debug\netcoreapp3.1\Atic.API.csproj.CopyComplete
 C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.API\obj\Debug\netcoreapp3.1\Atic.API.dll
 C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.API\obj\Debug\netcoreapp3.1\Atic.API.pdb
 C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.API\obj\Debug\netcoreapp3.1\Atic.API.genruntimeconfig.cache
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.API\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.API\obj\Debug\netcoreapp3.1\Atic.API.csproj.CopyComplete

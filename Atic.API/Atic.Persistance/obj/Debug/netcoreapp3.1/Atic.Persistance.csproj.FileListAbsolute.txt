@@ -30,3 +30,6 @@ C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\A
 C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Persistance\obj\Debug\netcoreapp3.1\Atic.Persistance.dll
 C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Persistance\obj\Debug\netcoreapp3.1\Atic.Persistance.pdb
 C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Persistance\obj\Debug\netcoreapp3.1\Atic.Persistance.genruntimeconfig.cache
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Persistance\obj\Debug\netcoreapp3.1\Atic.Persistance.csproj.CopyComplete
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Persistance\bin\Debug\netcoreapp3.1\Atic.Application.dll
+C:\Users\Ezequiel\Desktop\ATIC Evaluacion de candidatos\AticChallenge\Atic.API\Atic.Persistance\bin\Debug\netcoreapp3.1\Atic.Application.pdb

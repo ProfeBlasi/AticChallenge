@@ -1,9 +1,6 @@
 ﻿using Atic.Domain.Errors;
 using Flunt.Notifications;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Atic.Application.UseCase.CandidatosA.GetById
 {

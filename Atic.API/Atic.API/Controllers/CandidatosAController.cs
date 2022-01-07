@@ -24,14 +24,14 @@ namespace Atic.API.Controllers
             _mediator = mediator;
         }
 
-        [Route("/Atic/CandidatosA/{Id}")]
+        [Route("/Atic/CandidatosA/{Fecha}")]
         [HttpGet()]
         [ProducesResponseType(typeof(GetByIdCandidatosAResponse), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(IReadOnlyCollection<Notification>), StatusCodes.Status400BadRequest)]
         [ProducesResponseType(typeof(IReadOnlyCollection<Notification>), StatusCodes.Status404NotFound)]
-        public async Task<IActionResult> GetCandidatosAId(string Id)
+        public async Task<IActionResult> GetCandidatosAId(string Fecha)
         {
-            return _presenter.GetActionResult(await _mediator.Send(new GetByIdCandidatosARequest { Fecha = Id }));
+            return _presenter.GetActionResult(await _mediator.Send(new GetByIdCandidatosARequest { Fecha = Fecha }));
         }
     }
 }
